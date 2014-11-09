@@ -1,0 +1,1 @@
+https://speakerdeck.com/jclarkin/automating-the-web-an-intro-to-selenium
